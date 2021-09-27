@@ -125,7 +125,7 @@ Pero esto se puede arreglar muy fácilmente con `CSS`. El reto que te propongo e
 
 Si las imágenes ya aparecieron, solo resta centrarlas. Para esto, existen muchos métodos distintos, pero como lo indica el titulo, utilizaremos flexbox.
 
-> Nota: Si aun no queda claro como usar flexbox, se recomienda leer la siguiente [guia](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) que es muy fácil de entender.
+> Nota: Si aun no queda claro como usar flexbox, se recomienda leer la siguiente [guía](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) que es muy fácil de entender. También te dejo un [enlace](https://flexboxfroggy.com/#es) a un juego en línea que te ayuda con las ideas básicas sobre css-flexbox
 
 > Ayuda: En este caso, ¿cual es la caja que contiene a todos los elementos que queremos centrar?
 

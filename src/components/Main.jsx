@@ -26,24 +26,22 @@ const Main = () => {
         <ul>
           <li>
             <a href="">
-              <img src="" alt="" />
+              <img src="http://cine.ar/img/tv.cine.ar.svg" alt="" />
             </a>
           </li>
           <li>
             <a href="">
-              <img src="" alt="" />
+              <img src="http://cine.ar/img/play.cine.ar.svg" alt="" />
             </a>
           </li>
           <li>
             <a href="">
-              <img className='imgma'  src="" alt="" />
+              <img src="http://cine.ar/img/estrenos.cine.ar.svg" alt="" />
             </a>
           </li>
         </ul>
       </section>
     </main>
-  
-  ) 
-
-}
+  );
+};
 export default Main;

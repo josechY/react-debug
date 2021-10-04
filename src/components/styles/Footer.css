@@ -1,0 +1,17 @@
+.EspacioDelFooter {
+  display: flex;
+  align-items: flex-end;
+}
+
+.ImagenDelFooter {
+  width: 200px;
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 80px;
+}
+.ParafoDelFooter {
+  color: white;
+  font-size: 12px;
+  margin-top: 10px;
+}

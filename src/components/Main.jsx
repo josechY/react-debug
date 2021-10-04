@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./styles/Main.css";
 const Main = () => {
   return (
     <main>
@@ -23,20 +23,32 @@ const Main = () => {
         </video>
       </section>
       <section className="extern-links-section">
-        <ul>
+        <ul className="EspacioDelMain">
           <li>
             <a href="">
-              <img src="http://cine.ar/img/tv.cine.ar.svg" alt="" />
+              <img
+                className=" ImagenDelMain"
+                src="http://cine.ar/img/tv.cine.ar.svg"
+                alt=""
+              />
             </a>
           </li>
           <li>
             <a href="">
-              <img src="http://cine.ar/img/play.cine.ar.svg" alt="" />
+              <img
+                className=" ImagenDelMain"
+                src="http://cine.ar/img/play.cine.ar.svg"
+                alt=""
+              />
             </a>
           </li>
           <li>
             <a href="">
-              <img src="http://cine.ar/img/estrenos.cine.ar.svg" alt="" />
+              <img
+                className=" ImagenDelMain"
+                src="http://cine.ar/img/estrenos.cine.ar.svg"
+                alt=""
+              />
             </a>
           </li>
         </ul>
